@@ -14,6 +14,10 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
+## Instructions
+* Clone this repository
+* Download Node.js at https://nodejs.org/en/download/
+* Install required packages by typing npm install in the terminal
 
 ## Mock-Up
 
